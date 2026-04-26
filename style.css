@@ -25,9 +25,13 @@
   body {
     font-family: 'Poppins', sans-serif;
   }
-  
+
   h1, h2 {
     font-family: 'Playfair Display', serif;
+  }
+
+#skills {
+     font-family: 'Nunito', sans-serif;
   }
 
   /* Navbar biar soft */

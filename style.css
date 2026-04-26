@@ -1,0 +1,36 @@
+
+  body {
+    background-color: #FFF7F7;
+    color: #333;
+  }
+
+  /* Section beda warna dikit */
+  .bg-soft {
+    background-color: #FFE5EC;
+  }
+
+  /* Button custom */
+  .btn-custom {
+    background-color: #FF8FAB;
+    color: white;
+    border-radius: 20px;
+    border: none;
+  }
+
+  .btn-custom:hover {
+    background-color: #FF6F91;
+    color: white;
+  }
+
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  h1, h2 {
+    font-family: 'Playfair Display', serif;
+  }
+
+  /* Navbar biar soft */
+  .navbar {
+    background-color: #ffffff !important;
+  }

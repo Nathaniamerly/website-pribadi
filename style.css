@@ -89,7 +89,7 @@
 
 .skill-card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 15px 35px rgba(0,0,0,0.12);
+  box-shadow: 0 15px 35px rgba(209, 204, 204, 0.12);
 }
 
 .skill-card .icon {
@@ -107,6 +107,18 @@
   color: #777;
 }
 
+
+.card {
+  border-radius: 15px;
+}
+
+.card p {
+  margin-bottom: 12px;
+}
+
+.card ul {
+  padding-left: 20px;
+}
   /* Navbar biar soft */
   .navbar {
     background-color: #ffffff !important;
